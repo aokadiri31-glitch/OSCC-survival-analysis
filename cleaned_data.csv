@@ -1,0 +1,1001 @@
+Age,Race,Site,Tumour Grade,Primary Site Surgery,Regional LN Surgery,Cancer-directed surgery,Radiation exposure,Time from diagnosis to treatment in days,Regional nodes positive,Survival months,Regional_nodes_positive_clean,Regional_nodes_positive_flag,Survival_5yr,Cancer_specific_death
+62,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,122,,Unknown,1,0
+60,White,Tongue,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,57,14,17,14.0,Actual,0,1
+59,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,1,77,1.0,Actual,1,0
+57,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,62,,Unknown,1,0
+90,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,42,98,18,,Unknown,0,1
+51,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,54,6,11,6.0,Actual,0,1
+49,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,55,98,38,,Unknown,0,1
+65,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,52,98,168,,Unknown,1,0
+58,White,Tongue,Well differentiated; Grade I,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,1,18,1.0,Actual,0,0
+62,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,62,98,43,,Unknown,0,0
+61,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,49,,Unknown,0,0
+57,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,35,97,2,,Unknown,0,1
+59,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,117,,Unknown,1,1
+67,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,65,,Unknown,1,1
+52,Black,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,77,98,17,,Unknown,0,1
+57,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,37,3,47,3.0,Actual,0,0
+81,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,7,,Unknown,0,1
+77,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,43,98,84,,Unknown,1,0
+79,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,12,,Unknown,0,1
+62,White,Gum and Other Mouth,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,0,52,0.0,Actual,0,1
+69,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,122,,Unknown,1,0
+65,White,Floor of Mouth,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,24,0,70,0.0,Actual,1,1
+56,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,38,98,84,,Unknown,1,0
+72,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,"Radiation, NOS  method or source not specified",45,98,132,,Unknown,1,1
+61,White,Tongue,Well differentiated; Grade I,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,21,97,101,,Unknown,1,0
+70,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,55,95,68,,Unknown,1,0
+67,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,31,4,21,4.0,Actual,0,1
+41,White,Floor of Mouth,Poorly differentiated; Grade III,42,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,31,0,9,0.0,Actual,0,1
+65,White,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,77,1,135,1.0,Actual,1,0
+33,Black,Tongue,Moderately differentiated; Grade II,00,Number of regional lymph nodes removed unknown,"Recommended but not performed, unknown reason",Beam radiation,0,97,151,,Unknown,1,0
+58,Asian or Pacific Islander,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,80,98,6,,Unknown,0,1
+58,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,41,3,9,3.0,Actual,0,1
+51,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,17,2,14,2.0,Actual,0,1
+65,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Radioactive implants (includes brachytherapy) (1988+),42,98,31,,Unknown,0,1
+67,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,24,2,140,2.0,Actual,1,0
+52,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,25,95,211,,Unknown,1,0
+67,White,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,31,98,40,,Unknown,0,0
+37,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Combination of beam with implants or isotopes,12,98,269,,Unknown,1,1
+66,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,77,,Unknown,1,0
+61,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,68,95,37,,Unknown,0,0
+68,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,46,98,104,,Unknown,1,0
+54,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,10,95,79,,Unknown,1,0
+58,Asian or Pacific Islander,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,40,7,138,7.0,Actual,1,0
+84,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,"Recommended, unknown if administered",0,98,15,,Unknown,0,1
+70,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,82,99,35,,Unknown,0,0
+55,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,58,98,102,,Unknown,1,0
+64,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,105,,Unknown,1,1
+56,White,Floor of Mouth,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,21,4,163,4.0,Actual,1,0
+49,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,4,12,4.0,Actual,0,1
+63,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,28,98,94,,Unknown,1,0
+61,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,83,7,63,7.0,Actual,1,0
+51,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,30,98,15,,Unknown,0,1
+28,White,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,14,1,186,1.0,Actual,1,0
+45,White,Tongue,Poorly differentiated; Grade III,27,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,0,1,104,1.0,Actual,1,0
+51,White,Tongue,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,37,1,85,1.0,Actual,1,0
+57,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,48,95,11,,Unknown,0,1
+54,Black,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,26,3,8,3.0,Actual,0,1
+67,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,15,,Unknown,0,1
+62,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,47,98,5,,Unknown,0,1
+69,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,41,98,105,,Unknown,1,0
+69,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,111,98,30,,Unknown,0,0
+51,White,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,165,,Unknown,1,0
+42,White,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,"Recommended, unknown if administered",41,3,8,3.0,Actual,0,1
+63,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,3,,Unknown,0,1
+61,Black,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,13,,Unknown,0,1
+54,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,125,,Unknown,1,0
+84,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,34,,Unknown,0,1
+59,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,37,98,111,,Unknown,1,0
+60,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,51,98,119,,Unknown,1,0
+57,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,35,6,99,6.0,Actual,1,0
+61,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,170,,Unknown,1,0
+56,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,13,,Unknown,0,1
+42,Black,Floor of Mouth,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,74,,Unknown,1,1
+60,White,Floor of Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,3,3,3.0,Actual,0,1
+51,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,8,,Unknown,0,1
+76,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,57,,Unknown,0,0
+59,Asian or Pacific Islander,Gum and Other Mouth,Moderately differentiated; Grade II,40,Unknown/Not applicable,Surgery performed,Beam radiation,31,98,33,,Unknown,0,1
+71,White,Tongue,Poorly differentiated; Grade III,41,4 or more regional lymph nodes removed,Surgery performed,Combination of beam with implants or isotopes,26,0,124,0.0,Actual,1,0
+33,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,43,98,173,,Unknown,1,1
+70,White,Floor of Mouth,Well differentiated; Grade I,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,16,2,150,2.0,Actual,1,0
+64,White,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,39,95,88,,Unknown,1,0
+67,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Combination of beam with implants or isotopes,51,98,86,,Unknown,1,0
+69,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,18,,Unknown,0,0
+58,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,216,,Unknown,1,0
+63,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,41,1,9,1.0,Actual,0,1
+59,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,13,,Unknown,0,1
+69,White,Tongue,Undifferentiated; anaplastic; Grade IV,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,81,,Unknown,1,0
+61,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,84,,Unknown,1,1
+43,Black,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,38,0,21,0.0,Actual,0,0
+76,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,33,98,52,,Unknown,0,0
+58,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,133,,Unknown,1,0
+59,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,69,97,9,,Unknown,0,1
+50,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,33,98,164,,Unknown,1,0
+83,White,Floor of Mouth,Moderately differentiated; Grade II,40,Unknown/Not applicable,Surgery performed,Beam radiation,31,2,12,2.0,Actual,0,1
+70,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,124,,Unknown,1,0
+64,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended, unknown if performed",Beam radiation,48,95,104,,Unknown,1,0
+81,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,34,98,65,,Unknown,1,0
+57,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,28,98,61,,Unknown,1,1
+50,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,6,95,87,,Unknown,1,0
+68,White,Tongue,Poorly differentiated; Grade III,40,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,65,,Unknown,1,1
+63,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,27,1,191,1.0,Actual,1,0
+55,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,137,,Unknown,1,0
+65,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Surgery performed,Beam radiation,49,1,22,1.0,Actual,0,1
+56,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,41,4,103,4.0,Actual,1,0
+62,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,36,97,133,,Unknown,1,0
+74,White,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,7,,Unknown,0,1
+55,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,23,4,24,4.0,Actual,0,1
+67,White,Floor of Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,48,0,10,0.0,Actual,0,1
+64,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,36,98,76,,Unknown,1,0
+71,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,22,98,29,,Unknown,0,0
+57,White,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,6,118,6.0,Actual,1,0
+62,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,25,98,26,,Unknown,0,1
+64,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,40,98,126,,Unknown,1,1
+56,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,48,95,146,,Unknown,1,0
+56,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,25,98,105,,Unknown,1,0
+55,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,38,98,95,,Unknown,1,0
+53,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,37,,Unknown,0,1
+71,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,16,98,107,,Unknown,1,0
+78,White,Tongue,Moderately differentiated; Grade II,90,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,44,0,34,0.0,Actual,0,0
+69,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,52,98,64,,Unknown,1,1
+84,Asian or Pacific Islander,Gum and Other Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,40,3,8,3.0,Actual,0,1
+63,White,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Radioactive implants (includes brachytherapy) (1988+),20,0,15,0.0,Actual,0,1
+62,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,10,18,10.0,Actual,0,1
+27,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,22,4,15,4.0,Actual,0,1
+68,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,117,,Unknown,1,1
+63,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,21,98,40,,Unknown,0,1
+58,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,37,95,79,,Unknown,1,0
+71,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,14,98,68,,Unknown,1,0
+62,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Combination of beam with implants or isotopes,27,98,7,,Unknown,0,1
+56,White,Tongue,Moderately differentiated; Grade II,27,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,31,95,194,,Unknown,1,0
+49,Asian or Pacific Islander,Floor of Mouth,Poorly differentiated; Grade III,42,Unknown/Not applicable,Surgery performed,Beam radiation,8,4,6,4.0,Actual,0,1
+75,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,33,98,68,,Unknown,1,0
+56,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,38,99,112,,Unknown,1,0
+34,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,41,98,109,,Unknown,1,1
+65,White,Tongue,Moderately differentiated; Grade II,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,0,0,28,0.0,Actual,0,1
+64,White,Gum and Other Mouth,Poorly differentiated; Grade III,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,18,5,9,5.0,Actual,0,1
+66,White,Tongue,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,8,15,8.0,Actual,0,1
+51,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,140,,Unknown,1,0
+78,Asian or Pacific Islander,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,48,98,19,,Unknown,0,0
+74,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended, unknown if performed",Beam radiation,31,98,2,,Unknown,0,1
+42,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,23,98,131,,Unknown,1,0
+64,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,1,214,1.0,Actual,1,0
+64,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,45,98,16,,Unknown,0,1
+56,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,21,3,75,3.0,Actual,1,0
+69,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,95,227,,Unknown,1,0
+51,White,Tongue,Well differentiated; Grade I,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,12,98,12,,Unknown,0,1
+57,Black,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,35,98,54,,Unknown,0,1
+57,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,25,98,59,,Unknown,0,0
+53,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,162,,Unknown,1,0
+59,White,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,1,170,1.0,Actual,1,0
+58,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,33,98,160,,Unknown,1,0
+69,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,32,98,32,,Unknown,0,1
+67,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,32,,Unknown,0,0
+68,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,"Recommended, unknown if administered",48,98,306,,Unknown,1,0
+61,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,95,76,,Unknown,1,0
+59,White,Tongue,Poorly differentiated; Grade III,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,0,1,176,1.0,Actual,1,0
+55,White,Gum and Other Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,31,98,8,,Unknown,0,1
+59,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,139,,Unknown,1,0
+71,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,48,98,5,,Unknown,0,0
+65,White,Tongue,Poorly differentiated; Grade III,00,4 or more regional lymph nodes removed,Not recommended,Combination of beam with implants or isotopes,12,6,127,6.0,Actual,1,0
+68,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,40,98,80,,Unknown,1,0
+61,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,3,98,119,,Unknown,1,0
+67,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,0,7,117,7.0,Actual,1,0
+57,White,Floor of Mouth,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,95,3,21,3.0,Actual,0,1
+56,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,42,95,59,,Unknown,0,1
+59,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,12,2,97,2.0,Actual,1,0
+59,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,13,98,59,,Unknown,0,1
+68,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,31,98,9,,Unknown,0,1
+70,Asian or Pacific Islander,Gum and Other Mouth,Well differentiated; Grade I,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,30,0,92,0.0,Actual,1,0
+56,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,72,,Unknown,1,0
+58,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,33,98,124,,Unknown,1,0
+29,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,1,11,1.0,Actual,0,1
+44,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,163,,Unknown,1,0
+61,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,64,2,12,2.0,Actual,0,1
+65,White,Gum and Other Mouth,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,0,2,18,2.0,Actual,0,1
+80,White,Floor of Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,4,8,4.0,Actual,0,1
+55,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,10,4,9,4.0,Actual,0,1
+66,White,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,25,98,58,,Unknown,0,0
+58,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,63,98,6,,Unknown,0,1
+54,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,23,98,207,,Unknown,1,0
+61,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,22,98,166,,Unknown,1,0
+52,White,Tongue,Poorly differentiated; Grade III,41,Unknown/Not applicable,Surgery performed,Beam radiation,31,10,4,10.0,Actual,0,1
+69,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,66,98,55,,Unknown,0,1
+71,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,128,,Unknown,1,0
+55,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,10,95,5,,Unknown,0,1
+64,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,21,2,26,2.0,Actual,0,1
+49,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Surgery performed,Beam radiation,31,97,238,,Unknown,1,1
+67,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,6,98,45,,Unknown,0,1
+49,White,Gum and Other Mouth,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,20,0,186,0.0,Actual,1,0
+51,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,31,13,4,13.0,Actual,0,0
+54,Black,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,22,2,9,2.0,Actual,0,1
+57,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,22,98,101,,Unknown,1,0
+70,White,Tongue,Well differentiated; Grade I,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,29,2,13,2.0,Actual,0,0
+68,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,24,98,7,,Unknown,0,1
+58,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,46,98,147,,Unknown,1,0
+66,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,10,,Unknown,0,1
+81,White,Gum and Other Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,29,98,12,,Unknown,0,1
+69,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,71,,Unknown,1,0
+57,White,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,72,,Unknown,1,0
+48,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,5,204,5.0,Actual,1,0
+47,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,39,1,221,1.0,Actual,1,0
+66,White,Tongue,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,48,4,22,4.0,Actual,0,0
+81,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,"Recommended but not performed, unknown reason","Recommended, unknown if administered",6,98,3,,Unknown,0,1
+81,Asian or Pacific Islander,Gum and Other Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,17,5,8,5.0,Actual,0,1
+47,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,62,1,153,1.0,Actual,1,0
+74,White,Floor of Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,84,0,18,0.0,Actual,0,1
+34,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,35,2,12,2.0,Actual,0,1
+71,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,14,,Unknown,0,0
+42,White,Tongue,Poorly differentiated; Grade III,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,3,226,3.0,Actual,1,0
+53,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,12,98,148,,Unknown,1,0
+51,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,10,98,7,,Unknown,0,1
+69,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended, unknown if performed",Beam radiation,34,98,150,,Unknown,1,0
+63,White,Tongue,Poorly differentiated; Grade III,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,0,1,84,1.0,Actual,1,0
+51,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,1,95,173,,Unknown,1,0
+46,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,23,98,14,,Unknown,0,0
+46,Black,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,88,98,35,,Unknown,0,0
+86,Asian or Pacific Islander,Floor of Mouth,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,26,9,5,9.0,Actual,0,0
+51,White,Floor of Mouth,Poorly differentiated; Grade III,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,6,44,6.0,Actual,0,1
+43,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,97,202,,Unknown,1,0
+77,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,89,,Unknown,1,0
+61,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,3,95,42,,Unknown,0,1
+75,White,Floor of Mouth,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,13,1,136,1.0,Actual,1,1
+71,White,Gum and Other Mouth,Well differentiated; Grade I,43,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,67,,Unknown,1,0
+83,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,16,98,22,,Unknown,0,1
+70,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,43,98,116,,Unknown,1,1
+59,White,Floor of Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,43,0,8,0.0,Actual,0,0
+45,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,12,98,175,,Unknown,1,0
+66,White,Gum and Other Mouth,Moderately differentiated; Grade II,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,51,0,72,0.0,Actual,1,0
+59,White,Gum and Other Mouth,Moderately differentiated; Grade II,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,53,0,17,0.0,Actual,0,1
+57,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,"Radiation, NOS  method or source not specified",74,98,9,,Unknown,0,1
+47,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,2,28,2.0,Actual,0,1
+48,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,95,227,,Unknown,1,0
+66,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,69,98,28,,Unknown,0,1
+69,White,Tongue,Poorly differentiated; Grade III,00,Unknown or not applicable,Not recommended,Beam radiation,63,98,102,,Unknown,1,0
+61,White,Tongue,Well differentiated; Grade I,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,127,,Unknown,1,0
+62,White,Tongue,Poorly differentiated; Grade III,90,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,38,97,169,,Unknown,1,1
+47,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,18,2,159,2.0,Actual,1,0
+65,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,50,1,84,1.0,Actual,1,0
+71,White,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,81,,Unknown,1,0
+53,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,20,98,15,,Unknown,0,1
+66,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,97,20,,Unknown,0,1
+79,White,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,39,98,2,,Unknown,0,0
+71,Black,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,34,98,10,,Unknown,0,0
+50,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,24,,Unknown,0,1
+46,Black,Gum and Other Mouth,Well differentiated; Grade I,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,46,98,3,,Unknown,0,1
+69,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,6,,Unknown,0,1
+83,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Refused (1988+),38,98,2,,Unknown,0,1
+69,White,Gum and Other Mouth,Well differentiated; Grade I,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,50,97,9,,Unknown,0,1
+64,Black,Gum and Other Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,62,4,6,4.0,Actual,0,1
+52,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,16,98,9,,Unknown,0,1
+59,Black,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,32,98,2,,Unknown,0,1
+54,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,41,98,88,,Unknown,1,1
+60,White,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,24,98,147,,Unknown,1,0
+54,White,Tongue,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,2,12,2.0,Actual,0,1
+75,White,Gum and Other Mouth,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,30,98,36,,Unknown,0,0
+61,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,19,98,9,,Unknown,0,1
+57,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,44,98,10,,Unknown,0,1
+69,White,Gum and Other Mouth,Moderately differentiated; Grade II,43,Unknown/Not applicable,Surgery performed,Beam radiation,46,98,108,,Unknown,1,0
+66,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,"Radiation, NOS  method or source not specified",31,8,17,8.0,Actual,0,1
+56,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Surgery performed,Beam radiation,25,0,44,0.0,Actual,0,1
+77,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,19,98,18,,Unknown,0,1
+87,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,74,,Unknown,1,0
+78,White,Gum and Other Mouth,Poorly differentiated; Grade III,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,2,10,2.0,Actual,0,1
+61,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,51,98,154,,Unknown,1,0
+68,White,Tongue,Well differentiated; Grade I,Blank(s),Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,5,98,6,,Unknown,0,0
+57,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,95,,Unknown,1,0
+66,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,10,98,87,,Unknown,1,0
+62,White,Floor of Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,21,8,86,8.0,Actual,1,0
+64,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,13,98,220,,Unknown,1,0
+56,Black,Tongue,Well differentiated; Grade I,90,Unknown/Not applicable,Surgery performed,Beam radiation,52,98,9,,Unknown,0,0
+53,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,52,,Unknown,0,1
+48,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,0,55,0.0,Actual,0,1
+63,White,Gum and Other Mouth,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,119,9,47,9.0,Actual,0,1
+61,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,217,,Unknown,1,0
+55,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,43,98,166,,Unknown,1,0
+34,White,Tongue,Moderately differentiated; Grade II,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,2,228,2.0,Actual,1,0
+63,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,28,98,87,,Unknown,1,0
+40,White,Lip,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,36,98,341,,Unknown,1,0
+61,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,64,98,257,,Unknown,1,0
+55,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,42,1,175,1.0,Actual,1,0
+76,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,56,,Unknown,0,0
+54,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,37,98,129,,Unknown,1,0
+67,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,43,0,65,0.0,Actual,1,1
+73,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,76,98,95,,Unknown,1,0
+66,Asian or Pacific Islander,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,15,98,2,,Unknown,0,1
+34,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,27,98,8,,Unknown,0,1
+54,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,36,98,5,,Unknown,0,1
+58,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,13,98,9,,Unknown,0,1
+57,White,Tongue,Moderately differentiated; Grade II,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,1,1,77,1.0,Actual,1,0
+50,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,1,54,1.0,Actual,0,1
+55,White,Tongue,Well differentiated; Grade I,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,5,109,5.0,Actual,1,1
+51,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,34,98,80,,Unknown,1,0
+60,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,13,,Unknown,0,1
+48,White,Floor of Mouth,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,41,98,7,,Unknown,0,0
+56,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended, unknown if performed",Beam radiation,24,98,7,,Unknown,0,0
+72,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,27,98,8,,Unknown,0,1
+52,White,Floor of Mouth,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,17,0,165,0.0,Actual,1,0
+51,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,129,,Unknown,1,0
+90,White,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,2,,Unknown,0,0
+64,White,Floor of Mouth,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,53,0,34,0.0,Actual,0,1
+60,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,100,,Unknown,1,0
+56,White,Tongue,Poorly differentiated; Grade III,20,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,45,1,166,1.0,Actual,1,0
+58,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,47,95,74,,Unknown,1,0
+53,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,30,1,23,1.0,Actual,0,0
+42,White,Floor of Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,32,4,60,4.0,Actual,1,0
+72,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,55,98,47,,Unknown,0,1
+57,White,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,30,98,231,,Unknown,1,0
+67,Black,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,80,98,3,,Unknown,0,1
+69,White,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,29,98,10,,Unknown,0,1
+52,White,Floor of Mouth,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,25,0,131,0.0,Actual,1,0
+61,White,Tongue,Poorly differentiated; Grade III,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,1,213,1.0,Actual,1,0
+55,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,175,,Unknown,1,0
+68,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,52,98,6,,Unknown,0,1
+58,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,107,99,147,,Unknown,1,0
+65,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,33,98,67,,Unknown,1,0
+31,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,19,0,67,0.0,Actual,1,0
+60,White,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,11,,Unknown,0,1
+63,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,5,30,5.0,Actual,0,1
+73,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,43,98,32,,Unknown,0,1
+60,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,50,3,14,3.0,Actual,0,1
+24,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,19,98,88,,Unknown,1,1
+66,White,Gum and Other Mouth,Well differentiated; Grade I,40,Unknown/Not applicable,Surgery performed,Beam radiation,62,98,133,,Unknown,1,0
+68,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,74,95,179,,Unknown,1,0
+51,Black,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,168,98,45,,Unknown,0,1
+56,Black,Gum and Other Mouth,Poorly differentiated; Grade III,90,Unknown/Not applicable,Surgery performed,Beam radiation,31,98,129,,Unknown,1,1
+59,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,22,Unknown/Not applicable,Surgery performed,Beam radiation,15,98,189,,Unknown,1,0
+57,Black,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Combination of beam with implants or isotopes,6,98,15,,Unknown,0,1
+55,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,18,98,26,,Unknown,0,1
+61,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,103,98,71,,Unknown,1,0
+38,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,11,1,194,1.0,Actual,1,0
+60,White,Floor of Mouth,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,25,98,27,,Unknown,0,0
+34,White,Tongue,Poorly differentiated; Grade III,30,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,31,1,92,1.0,Actual,1,0
+67,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,"Recommended, unknown if administered",98,98,18,,Unknown,0,1
+64,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,48,98,25,,Unknown,0,1
+62,White,Gum and Other Mouth,Well differentiated; Grade I,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,21,3,27,3.0,Actual,0,0
+78,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,23,98,27,,Unknown,0,0
+62,White,Floor of Mouth,Moderately differentiated; Grade II,30,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,0,95,103,,Unknown,1,0
+56,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,232,,Unknown,1,0
+47,White,Gum and Other Mouth,Well differentiated; Grade I,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,96,6,17,6.0,Actual,0,1
+55,White,Tongue,Poorly differentiated; Grade III,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,1,94,1.0,Actual,1,1
+59,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,36,95,87,,Unknown,1,0
+60,White,Tongue,Moderately differentiated; Grade II,41,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,0,1,12,1.0,Actual,0,1
+72,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,34,98,78,,Unknown,1,0
+72,White,Floor of Mouth,Well differentiated; Grade I,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,31,98,127,,Unknown,1,0
+53,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,19,98,268,,Unknown,1,0
+69,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,93,,Unknown,1,0
+85,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,33,98,39,,Unknown,0,0
+65,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,26,95,182,,Unknown,1,0
+64,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,55,98,5,,Unknown,0,1
+39,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,31,97,213,,Unknown,1,0
+59,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Surgery performed,Beam radiation,42,2,143,2.0,Actual,1,1
+36,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,4,94,4.0,Actual,1,0
+63,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,122,,Unknown,1,0
+86,Black,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,33,98,7,,Unknown,0,1
+59,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,49,1,202,1.0,Actual,1,0
+59,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,55,98,28,,Unknown,0,0
+72,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,41,98,62,,Unknown,1,0
+64,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,"Radiation, NOS  method or source not specified",15,98,54,,Unknown,0,1
+80,White,Tongue,Well differentiated; Grade I,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,143,,Unknown,1,0
+61,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,28,98,87,,Unknown,1,0
+73,Asian or Pacific Islander,Floor of Mouth,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Combination of beam with implants or isotopes,0,98,31,,Unknown,0,1
+71,White,Gum and Other Mouth,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,0,157,0.0,Actual,1,0
+51,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,43,11,8,11.0,Actual,0,1
+71,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,21,98,20,,Unknown,0,1
+57,American Indian/Alaska Native,Tongue,Well differentiated; Grade I,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,3,3,3.0,Actual,0,1
+73,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,46,95,81,,Unknown,1,0
+54,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,133,98,81,,Unknown,1,1
+64,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,60,,Unknown,1,0
+59,White,Tongue,Poorly differentiated; Grade III,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,31,2,231,2.0,Actual,1,0
+48,Black,Floor of Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,13,98,6,,Unknown,0,1
+50,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,95,189,,Unknown,1,0
+65,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,49,98,114,,Unknown,1,1
+54,White,Floor of Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,15,1,106,1.0,Actual,1,0
+74,White,Tongue,Poorly differentiated; Grade III,90,Number of regional lymph nodes removed unknown,Surgery performed,Beam radiation,15,97,85,,Unknown,1,0
+69,Asian or Pacific Islander,Floor of Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,28,8,8,8.0,Actual,0,1
+68,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,18,98,30,,Unknown,0,1
+47,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended, unknown if performed",Beam radiation,46,98,9,,Unknown,0,1
+36,White,Gum and Other Mouth,Well differentiated; Grade I,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,63,2,114,2.0,Actual,1,0
+56,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,27,98,102,,Unknown,1,1
+51,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,41,95,93,,Unknown,1,0
+56,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,11,,Unknown,0,1
+84,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,44,98,45,,Unknown,0,1
+74,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,10,95,2,,Unknown,0,0
+47,American Indian/Alaska Native,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,"Recommended but not performed, unknown reason",Beam radiation,73,0,82,0.0,Actual,1,0
+84,Black,Gum and Other Mouth,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Combination of beam with implants or isotopes,31,98,16,,Unknown,0,1
+62,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,90,98,33,,Unknown,0,1
+73,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,13,2,156,2.0,Actual,1,0
+47,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Surgery performed,Beam radiation,63,2,255,2.0,Actual,1,0
+55,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,72,98,8,,Unknown,0,1
+51,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,"Radiation, NOS  method or source not specified",39,95,178,,Unknown,1,0
+56,White,Gum and Other Mouth,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,119,8,15,8.0,Actual,0,1
+63,White,Gum and Other Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,20,3,10,3.0,Actual,0,1
+73,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,40,98,61,,Unknown,1,1
+69,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,4,98,16,,Unknown,0,1
+45,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,42,95,17,,Unknown,0,1
+60,White,Tongue,Moderately differentiated; Grade II,25,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,0,95,168,,Unknown,1,0
+53,White,Gum and Other Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,27,2,63,2.0,Actual,1,0
+69,Asian or Pacific Islander,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,96,0,101,0.0,Actual,1,0
+62,White,Tongue,Moderately differentiated; Grade II,40,Unknown/Not applicable,Surgery performed,Beam radiation,15,4,11,4.0,Actual,0,1
+50,White,Tongue,Moderately differentiated; Grade II,42,Unknown/Not applicable,Surgery performed,Beam radiation,31,98,29,,Unknown,0,1
+80,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,6,98,5,,Unknown,0,0
+71,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,63,98,133,,Unknown,1,0
+56,Asian or Pacific Islander,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,41,95,144,,Unknown,1,1
+61,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,187,,Unknown,1,0
+79,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,47,98,11,,Unknown,0,0
+63,Black,Gum and Other Mouth,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,35,5,8,5.0,Actual,0,0
+72,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,50,98,164,,Unknown,1,0
+56,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,94,,Unknown,1,0
+51,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,68,98,36,,Unknown,0,0
+55,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,153,,Unknown,1,0
+66,White,Gum and Other Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,5,98,31,,Unknown,0,1
+70,White,Floor of Mouth,Poorly differentiated; Grade III,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,22,6,102,6.0,Actual,1,0
+60,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,48,98,115,,Unknown,1,0
+67,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,13,98,28,,Unknown,0,1
+59,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,68,98,11,,Unknown,0,1
+69,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,58,0,129,0.0,Actual,1,0
+53,Black,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,25,98,26,,Unknown,0,0
+62,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,43,98,8,,Unknown,0,1
+55,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,46,6,37,6.0,Actual,0,0
+38,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Combination of beam with implants or isotopes,31,1,15,1.0,Actual,0,1
+90,White,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,83,98,7,,Unknown,0,1
+57,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,20,2,138,2.0,Actual,1,0
+64,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,88,98,160,,Unknown,1,0
+79,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,82,98,3,,Unknown,0,1
+74,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,25,98,51,,Unknown,0,0
+66,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,"Recommended, unknown if administered",37,1,14,1.0,Actual,0,0
+55,White,Tongue,Poorly differentiated; Grade III,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,67,4,8,4.0,Actual,0,1
+50,White,Tongue,Poorly differentiated; Grade III,90,Unknown/Not applicable,Surgery performed,Beam radiation,0,1,290,1.0,Actual,1,0
+62,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,22,1,131,1.0,Actual,1,0
+60,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,79,,Unknown,1,0
+54,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,56,98,77,,Unknown,1,0
+52,White,Tongue,Poorly differentiated; Grade III,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,34,2,84,2.0,Actual,1,0
+55,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Refused (1988+),55,98,9,,Unknown,0,0
+45,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,6,95,116,,Unknown,1,0
+75,White,Gum and Other Mouth,Moderately differentiated; Grade II,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,39,1,10,1.0,Actual,0,1
+67,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,15,98,81,,Unknown,1,0
+52,White,Floor of Mouth,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,39,1,114,1.0,Actual,1,0
+45,White,Tongue,Moderately differentiated; Grade II,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,0,1,120,1.0,Actual,1,0
+52,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,61,,Unknown,1,0
+79,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,10,2,90,2.0,Actual,1,0
+69,Asian or Pacific Islander,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,43,98,17,,Unknown,0,1
+66,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,91,98,65,,Unknown,1,0
+52,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,69,1,32,1.0,Actual,0,0
+67,White,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,31,98,26,,Unknown,0,1
+65,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,31,8,8,8.0,Actual,0,1
+64,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,28,90,77,90.0,Actual,1,0
+49,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,89,0,11,0.0,Actual,0,1
+49,White,Floor of Mouth,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,56,98,81,,Unknown,1,1
+47,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,30,98,95,,Unknown,1,0
+51,Black,Gum and Other Mouth,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,9,98,9,,Unknown,0,1
+72,White,Gum and Other Mouth,Well differentiated; Grade I,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,100,,Unknown,1,1
+52,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,23,,Unknown,0,1
+53,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,88,95,62,,Unknown,1,0
+48,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,37,98,9,,Unknown,0,1
+39,White,Tongue,Moderately differentiated; Grade II,40,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,31,0,227,0.0,Actual,1,0
+63,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,49,0,9,0.0,Actual,0,1
+73,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,22,98,138,,Unknown,1,1
+56,Black,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,32,4,16,4.0,Actual,0,0
+52,White,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,31,97,242,,Unknown,1,0
+60,Black,Gum and Other Mouth,Moderately differentiated; Grade II,42,Unknown/Not applicable,Surgery performed,Beam radiation,36,3,18,3.0,Actual,0,1
+59,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,19,98,5,,Unknown,0,1
+46,White,Tongue,Poorly differentiated; Grade III,27,4 or more regional lymph nodes removed,Surgery performed,Radioactive implants (includes brachytherapy) (1988+),42,0,29,0.0,Actual,0,1
+66,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,83,,Unknown,1,0
+58,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,9,98,146,,Unknown,1,0
+72,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Combination of beam with implants or isotopes,13,98,53,,Unknown,0,1
+73,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,3,12,3.0,Actual,0,1
+90,Asian or Pacific Islander,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,19,98,5,,Unknown,0,1
+58,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,19,98,118,,Unknown,1,0
+69,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,47,,Unknown,0,0
+81,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,3,,Unknown,0,1
+61,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,"Radiation, NOS  method or source not specified",50,98,150,,Unknown,1,0
+54,White,Tongue,Well differentiated; Grade I,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,62,,Unknown,1,0
+77,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,45,98,19,,Unknown,0,0
+41,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,20,,Unknown,0,1
+49,White,Tongue,Poorly differentiated; Grade III,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,18,2,16,2.0,Actual,0,1
+69,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,48,1,12,1.0,Actual,0,1
+57,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,7,14,7.0,Actual,0,1
+37,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,11,97,230,,Unknown,1,0
+59,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,38,98,136,,Unknown,1,0
+67,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,22,98,152,,Unknown,1,0
+44,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,40,98,15,,Unknown,0,1
+56,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,29,98,34,,Unknown,0,0
+75,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,98,122,,Unknown,1,0
+63,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,26,1,9,1.0,Actual,0,1
+57,White,Tongue,Moderately differentiated; Grade II,25,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,74,5,41,5.0,Actual,0,1
+54,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,44,98,65,,Unknown,1,0
+73,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,20,98,54,,Unknown,0,1
+70,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,66,6,14,6.0,Actual,0,1
+59,White,Tongue,Poorly differentiated; Grade III,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,2,95,2.0,Actual,1,0
+56,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,14,5,114,5.0,Actual,1,0
+66,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,63,7,64,7.0,Actual,1,0
+80,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,11,98,6,,Unknown,0,1
+65,White,Floor of Mouth,Moderately differentiated; Grade II,20,Unknown/Not applicable,Surgery performed,Combination of beam with implants or isotopes,0,98,17,,Unknown,0,1
+51,White,Gum and Other Mouth,Poorly differentiated; Grade III,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,110,0,16,0.0,Actual,0,0
+64,Black,Gum and Other Mouth,Moderately differentiated; Grade II,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,41,1,4,1.0,Actual,0,1
+51,Black,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,27,98,101,,Unknown,1,1
+72,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,24,98,30,,Unknown,0,1
+65,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,32,98,11,,Unknown,0,1
+66,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,9,95,5,,Unknown,0,1
+66,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,19,,Unknown,0,1
+78,White,Gum and Other Mouth,Well differentiated; Grade I,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,23,0,28,0.0,Actual,0,1
+68,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,31,2,41,2.0,Actual,0,0
+46,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,0,234,0.0,Actual,1,0
+54,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,39,,Unknown,0,1
+56,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,45,98,203,,Unknown,1,0
+50,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,38,98,188,,Unknown,1,0
+58,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,56,98,302,,Unknown,1,0
+35,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,53,98,141,,Unknown,1,0
+73,White,Tongue,Poorly differentiated; Grade III,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,0,4,199,4.0,Actual,1,0
+66,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,61,95,114,,Unknown,1,0
+62,American Indian/Alaska Native,Floor of Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,33,3,25,3.0,Actual,0,1
+67,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,24,6,146,6.0,Actual,1,0
+76,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,16,98,2,,Unknown,0,1
+26,Asian or Pacific Islander,Tongue,Well differentiated; Grade I,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,2,7,2.0,Actual,0,1
+52,White,Gum and Other Mouth,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,37,,Unknown,0,0
+68,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,20,97,3,,Unknown,0,1
+63,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,34,97,147,,Unknown,1,0
+66,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,97,98,20,,Unknown,0,1
+58,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,62,98,39,,Unknown,0,0
+76,White,Floor of Mouth,Moderately differentiated; Grade II,40,Sentinel node biopsy and lym nd removed same/unstated time,Surgery performed,Beam radiation,0,1,27,1.0,Actual,0,0
+64,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,45,98,57,,Unknown,0,1
+56,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,"Radiation, NOS  method or source not specified",49,98,50,,Unknown,0,0
+62,White,Tongue,Well differentiated; Grade I,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,25,0,70,0.0,Actual,1,0
+51,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended, unknown if performed",Beam radiation,39,98,24,,Unknown,0,1
+47,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,31,0,262,0.0,Actual,1,0
+47,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,"Radiation, NOS  method or source not specified",0,98,152,,Unknown,1,0
+47,White,Gum and Other Mouth,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,78,,Unknown,1,0
+43,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,11,1,109,1.0,Actual,1,0
+46,Asian or Pacific Islander,Gum and Other Mouth,Well differentiated; Grade I,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,14,0,28,0.0,Actual,0,1
+67,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,21,98,168,,Unknown,1,0
+66,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,0,145,0.0,Actual,1,0
+68,Asian or Pacific Islander,Gum and Other Mouth,Moderately differentiated; Grade II,42,Unknown/Not applicable,Surgery performed,Beam radiation,22,98,85,,Unknown,1,0
+61,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,20,98,116,,Unknown,1,0
+42,White,Tongue,Well differentiated; Grade I,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,17,0,104,0.0,Actual,1,0
+68,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,152,98,18,,Unknown,0,1
+71,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,27,8,144,8.0,Actual,1,0
+54,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,Sentinel node biopsy and lym nd removed same/unstated time,Surgery performed,Beam radiation,18,6,9,6.0,Actual,0,1
+52,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,34,,Unknown,0,1
+84,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,0,34,0.0,Actual,0,1
+75,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,"Radiation, NOS  method or source not specified",28,98,107,,Unknown,1,0
+84,White,Lip,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Refused (1988+),70,98,28,,Unknown,0,1
+57,White,Tongue,Well differentiated; Grade I,41,Unknown/Not applicable,Surgery performed,Beam radiation,21,0,11,0.0,Actual,0,1
+28,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,10,3,62,3.0,Actual,1,0
+70,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,10,98,7,,Unknown,0,1
+73,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,49,98,94,,Unknown,1,0
+68,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,1,,Unknown,0,1
+55,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,94,,Unknown,1,0
+57,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,95,28,,Unknown,0,1
+61,Asian or Pacific Islander,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,54,1,96,1.0,Actual,1,0
+55,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,46,98,18,,Unknown,0,1
+53,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,27,6,147,6.0,Actual,1,0
+56,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,2,98,162,,Unknown,1,0
+76,White,Gum and Other Mouth,Moderately differentiated; Grade II,30,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,17,95,124,,Unknown,1,0
+41,Asian or Pacific Islander,Floor of Mouth,Well differentiated; Grade I,42,4 or more regional lymph nodes removed,Surgery performed,"Recommended, unknown if administered",31,1,93,1.0,Actual,1,0
+55,Asian or Pacific Islander,Gum and Other Mouth,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,34,2,18,2.0,Actual,0,0
+80,White,Gum and Other Mouth,Poorly differentiated; Grade III,20,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,2,,Unknown,0,1
+49,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,174,,Unknown,1,0
+68,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,19,,Unknown,0,1
+60,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,42,0,201,0.0,Actual,1,0
+60,White,Tongue,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,2,76,2.0,Actual,1,0
+54,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,62,98,14,,Unknown,0,1
+42,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,39,1,14,1.0,Actual,0,1
+63,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,129,98,43,,Unknown,0,0
+58,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,3,,Unknown,0,1
+47,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,8,0,25,0.0,Actual,0,1
+65,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,13,9,50,9.0,Actual,0,0
+69,Asian or Pacific Islander,Gum and Other Mouth,Well differentiated; Grade I,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,29,0,79,0.0,Actual,1,0
+69,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,37,98,6,,Unknown,0,1
+66,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,"Radiation, NOS  method or source not specified",59,98,198,,Unknown,1,0
+71,White,Gum and Other Mouth,Poorly differentiated; Grade III,42,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,35,95,155,,Unknown,1,0
+76,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,39,98,117,,Unknown,1,0
+88,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,21,98,8,,Unknown,0,1
+46,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,1,95,30,,Unknown,0,1
+61,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,9,,Unknown,0,1
+58,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,34,98,92,,Unknown,1,0
+68,Black,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,97,9,9,9.0,Actual,0,1
+62,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Surgery performed,Combination of beam with implants or isotopes,42,97,181,,Unknown,1,0
+48,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,34,95,99,,Unknown,1,0
+62,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,43,98,177,,Unknown,1,0
+59,White,Tongue,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,48,0,62,0.0,Actual,1,0
+66,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,44,95,98,,Unknown,1,0
+51,Black,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,26,98,14,,Unknown,0,1
+59,White,Tongue,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,51,2,220,2.0,Actual,1,0
+35,White,Lip,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,21,,Unknown,0,1
+80,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,16,,Unknown,0,1
+74,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,32,98,83,,Unknown,1,0
+50,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,39,98,28,,Unknown,0,0
+69,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,22,98,72,,Unknown,1,0
+61,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,29,98,124,,Unknown,1,0
+59,White,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,37,98,9,,Unknown,0,1
+39,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,23,97,141,,Unknown,1,1
+72,White,Tongue,Poorly differentiated; Grade III,20,Unknown/Not applicable,Surgery performed,Beam radiation,13,98,28,,Unknown,0,1
+60,White,Floor of Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,24,0,83,0.0,Actual,1,0
+68,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,66,,Unknown,1,0
+57,White,Tongue,Well differentiated; Grade I,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,179,,Unknown,1,0
+55,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,46,98,96,,Unknown,1,1
+60,White,Tongue,Poorly differentiated; Grade III,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,193,13,31,13.0,Actual,0,1
+45,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Combination of beam with implants or isotopes,0,98,175,,Unknown,1,0
+15,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,5,19,5.0,Actual,0,1
+62,White,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,3,183,3.0,Actual,1,0
+61,Black,Gum and Other Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,5,98,20,,Unknown,0,1
+59,White,Floor of Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,43,2,21,2.0,Actual,0,0
+39,Black,Gum and Other Mouth,Moderately differentiated; Grade II,42,Unknown/Not applicable,Surgery performed,Beam radiation,71,4,9,4.0,Actual,0,1
+45,White,Gum and Other Mouth,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,39,4,72,4.0,Actual,1,0
+51,White,Tongue,Well differentiated; Grade I,42,Unknown/Not applicable,Surgery performed,Beam radiation,6,5,9,5.0,Actual,0,1
+49,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,16,20,9,20.0,Actual,0,1
+56,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Combination of beam with implants or isotopes,17,98,20,,Unknown,0,1
+62,Black,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,39,98,70,,Unknown,1,0
+71,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,138,95,161,,Unknown,1,0
+56,White,Tongue,Moderately differentiated; Grade II,00,Number of regional lymph nodes removed unknown,Not recommended,Beam radiation,0,97,221,,Unknown,1,0
+59,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,162,,Unknown,1,0
+66,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,45,98,59,,Unknown,0,0
+58,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,36,98,179,,Unknown,1,0
+49,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,42,2,46,2.0,Actual,0,0
+64,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,101,,Unknown,1,0
+57,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,71,1,23,1.0,Actual,0,1
+52,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended, unknown if performed",Beam radiation,179,98,6,,Unknown,0,0
+68,White,Tongue,Moderately differentiated; Grade II,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,33,3,16,3.0,Actual,0,1
+57,White,Floor of Mouth,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,19,10,71,10.0,Actual,1,0
+63,White,Floor of Mouth,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,48,98,16,,Unknown,0,1
+47,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,21,98,30,,Unknown,0,0
+65,White,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,2,153,2.0,Actual,1,0
+77,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,39,95,100,,Unknown,1,0
+72,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,97,30,,Unknown,0,1
+79,White,Gum and Other Mouth,Well differentiated; Grade I,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,0,7,0.0,Actual,0,1
+77,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,27,3,55,3.0,Actual,0,0
+55,Black,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,48,98,49,,Unknown,0,1
+51,White,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,31,0,241,0.0,Actual,1,0
+72,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,29,98,46,,Unknown,0,0
+68,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Combination of beam with implants or isotopes,25,98,35,,Unknown,0,1
+62,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,9,,Unknown,0,1
+62,Black,Tongue,Undifferentiated; anaplastic; Grade IV,00,Unknown/Not applicable,Not recommended,Beam radiation,62,98,124,,Unknown,1,0
+62,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,63,98,79,,Unknown,1,0
+59,Asian or Pacific Islander,Floor of Mouth,Moderately differentiated; Grade II,43,Unknown/Not applicable,Surgery performed,Beam radiation,28,1,82,1.0,Actual,1,1
+50,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Surgery performed,Beam radiation,32,1,274,1.0,Actual,1,0
+64,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,34,,Unknown,0,1
+57,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,31,20,43,20.0,Actual,0,0
+53,Black,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,91,98,5,,Unknown,0,1
+68,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,27,98,80,,Unknown,1,0
+86,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,46,98,2,,Unknown,0,1
+55,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,20,98,165,,Unknown,1,0
+53,White,Tongue,Poorly differentiated; Grade III,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,31,1,132,1.0,Actual,1,0
+50,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,72,,Unknown,1,0
+47,White,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,13,3,264,3.0,Actual,1,0
+59,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,35,95,116,,Unknown,1,0
+67,White,Gum and Other Mouth,Well differentiated; Grade I,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,9,0,128,0.0,Actual,1,0
+56,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,8,,Unknown,0,1
+56,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,56,,Unknown,0,1
+53,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,38,98,16,,Unknown,0,1
+55,Black,Floor of Mouth,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,2,98,10,,Unknown,0,1
+60,White,Tongue,Moderately differentiated; Grade II,40,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,0,95,75,,Unknown,1,0
+75,White,Gum and Other Mouth,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,43,98,99,,Unknown,1,0
+67,American Indian/Alaska Native,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,26,98,76,,Unknown,1,0
+42,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,34,98,11,,Unknown,0,0
+16,White,Gum and Other Mouth,Well differentiated; Grade I,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,0,97,0.0,Actual,1,0
+70,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,52,98,46,,Unknown,0,0
+56,White,Tongue,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,6,3,27,3.0,Actual,0,1
+61,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,38,98,135,,Unknown,1,0
+61,White,Floor of Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,31,98,18,,Unknown,0,1
+57,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Surgery performed,Combination of beam with implants or isotopes,25,98,311,,Unknown,1,0
+51,White,Floor of Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Combination of beam with implants or isotopes,0,98,184,,Unknown,1,0
+57,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,29,1,370,1.0,Actual,1,0
+59,Black,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,52,98,12,,Unknown,0,0
+59,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,16,98,130,,Unknown,1,1
+59,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,14,8,14,8.0,Actual,0,1
+53,White,Tongue,Poorly differentiated; Grade III,30,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,0,1,62,1.0,Actual,1,0
+76,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,14,,Unknown,0,0
+58,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,"Radiation, NOS  method or source not specified",31,98,177,,Unknown,1,0
+65,American Indian/Alaska Native,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,50,4,130,4.0,Actual,1,0
+59,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,63,4,112,4.0,Actual,1,0
+61,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,76,1,76,1.0,Actual,1,1
+52,White,Tongue,Poorly differentiated; Grade III,30,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,0,95,74,,Unknown,1,0
+81,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,0,97,48,,Unknown,0,0
+52,White,Floor of Mouth,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,13,,Unknown,0,1
+52,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,33,0,176,0.0,Actual,1,1
+61,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,42,1,67,1.0,Actual,1,0
+62,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,109,98,54,,Unknown,0,1
+55,White,Tongue,Poorly differentiated; Grade III,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,34,23,21,23.0,Actual,0,0
+55,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,113,,Unknown,1,1
+54,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,97,98,142,,Unknown,1,1
+49,White,Tongue,Poorly differentiated; Grade III,20,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,0,1,235,1.0,Actual,1,0
+43,White,Floor of Mouth,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,62,3,88,3.0,Actual,1,0
+53,White,Tongue,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,35,2,12,2.0,Actual,0,1
+73,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Refused (1988+),133,95,13,,Unknown,0,1
+63,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,20,98,14,,Unknown,0,1
+59,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,9,95,94,,Unknown,1,0
+63,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,25,98,5,,Unknown,0,1
+66,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,212,,Unknown,1,0
+85,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,15,95,7,,Unknown,0,0
+78,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,45,98,196,,Unknown,1,0
+60,White,Tongue,Poorly differentiated; Grade III,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,31,97,214,,Unknown,1,0
+59,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Surgery performed,Beam radiation,7,98,5,,Unknown,0,1
+82,White,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,64,,Unknown,1,0
+71,White,Gum and Other Mouth,Poorly differentiated; Grade III,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,40,4,89,4.0,Actual,1,0
+48,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,13,98,8,,Unknown,0,0
+61,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,"Recommended but not performed, unknown reason",Beam radiation,6,0,215,0.0,Actual,1,0
+56,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,27,98,17,,Unknown,0,1
+70,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,2,61,2.0,Actual,1,0
+48,White,Tongue,Well differentiated; Grade I,Blank(s),Unknown/Not applicable,Not recommended,"Recommended, unknown if administered",63,98,10,,Unknown,0,1
+70,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,46,98,51,,Unknown,0,0
+24,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,31,4,13,4.0,Actual,0,1
+58,White,Tongue,Moderately differentiated; Grade II,20,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,65,,Unknown,1,0
+54,Black,Tongue,Moderately differentiated; Grade II,00,Number of regional lymph nodes removed unknown,Not recommended,Beam radiation,0,97,139,,Unknown,1,1
+59,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,89,98,178,,Unknown,1,0
+68,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,13,,Unknown,0,1
+63,White,Tongue,Poorly differentiated; Grade III,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,23,6,148,6.0,Actual,1,0
+44,White,Gum and Other Mouth,Well differentiated; Grade I,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,0,7,0.0,Actual,0,1
+78,White,Tongue,Moderately differentiated; Grade II,25,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,1,105,1.0,Actual,1,0
+58,White,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,287,,Unknown,1,1
+62,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,35,98,53,,Unknown,0,1
+80,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,61,,Unknown,1,0
+80,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,53,98,67,,Unknown,1,0
+54,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,97,151,,Unknown,1,0
+45,White,Floor of Mouth,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,"Recommended but not performed, unknown reason","Recommended, unknown if administered",41,98,258,,Unknown,1,0
+62,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,29,,Unknown,0,1
+64,White,Lip,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,31,1,9,1.0,Actual,0,1
+56,White,Tongue,Poorly differentiated; Grade III,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,31,7,172,7.0,Actual,1,0
+55,White,Gum and Other Mouth,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,2,132,2.0,Actual,1,1
+65,White,Gum and Other Mouth,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,13,,Unknown,0,1
+41,White,Tongue,Poorly differentiated; Grade III,00,4 or more regional lymph nodes removed,"Recommended but not performed, unknown reason",Beam radiation,7,0,21,0.0,Actual,0,1
+55,White,Gum and Other Mouth,Poorly differentiated; Grade III,43,Unknown/Not applicable,Surgery performed,Beam radiation,29,98,121,,Unknown,1,0
+75,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,7,2,16,2.0,Actual,0,1
+72,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,39,98,7,,Unknown,0,1
+73,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,27,98,35,,Unknown,0,1
+50,Black,Tongue,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,38,2,7,2.0,Actual,0,1
+65,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,24,98,21,,Unknown,0,1
+41,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,96,98,12,,Unknown,0,1
+72,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,37,98,66,,Unknown,1,0
+69,White,Gum and Other Mouth,Poorly differentiated; Grade III,90,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,57,1,38,1.0,Actual,0,1
+54,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,9,,Unknown,0,1
+70,White,Gum and Other Mouth,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,13,4,103,4.0,Actual,1,0
+74,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,33,98,9,,Unknown,0,1
+52,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,24,98,3,,Unknown,0,1
+51,Black,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,49,98,14,,Unknown,0,1
+62,White,Tongue,Poorly differentiated; Grade III,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,1,73,1.0,Actual,1,0
+61,White,Tongue,Poorly differentiated; Grade III,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,42,1,186,1.0,Actual,1,0
+48,White,Tongue,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,21,1,65,1.0,Actual,1,0
+65,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,1,125,1.0,Actual,1,0
+53,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,61,1,19,1.0,Actual,0,1
+67,White,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,146,98,167,,Unknown,1,1
+67,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,60,,Unknown,1,0
+57,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,54,98,199,,Unknown,1,0
+33,White,Tongue,Poorly differentiated; Grade III,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,31,0,202,0.0,Actual,1,0
+61,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,85,,Unknown,1,0
+34,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,32,3,21,3.0,Actual,0,1
+48,White,Gum and Other Mouth,Well differentiated; Grade I,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,37,0,135,0.0,Actual,1,0
+66,White,Floor of Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,84,6,91,6.0,Actual,1,0
+54,White,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,20,2,147,2.0,Actual,1,0
+46,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,14,99,44,,Unknown,0,0
+64,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,118,,Unknown,1,0
+59,White,Tongue,Well differentiated; Grade I,27,Unknown/Not applicable,Surgery performed,Beam radiation,10,98,5,,Unknown,0,1
+47,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,3,15,3.0,Actual,0,1
+65,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,55,98,109,,Unknown,1,0
+76,White,Floor of Mouth,Poorly differentiated; Grade III,42,Unknown/Not applicable,Surgery performed,Beam radiation,0,7,44,7.0,Actual,0,0
+90,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,28,98,5,,Unknown,0,1
+49,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,64,98,17,,Unknown,0,0
+73,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,11,95,73,,Unknown,1,0
+74,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,13,1,75,1.0,Actual,1,0
+31,White,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,34,2,10,2.0,Actual,0,1
+56,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,3,12,3.0,Actual,0,1
+62,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,119,98,135,,Unknown,1,0
+49,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,45,98,203,,Unknown,1,0
+56,White,Tongue,Poorly differentiated; Grade III,30,Sentinel node biopsy and lym nd removed same/unstated time,Surgery performed,Beam radiation,18,1,92,1.0,Actual,1,0
+59,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,45,98,78,,Unknown,1,0
+60,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,132,,Unknown,1,0
+61,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,34,98,160,,Unknown,1,0
+36,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,1,181,1.0,Actual,1,0
+70,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,46,2,18,2.0,Actual,0,1
+49,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,103,98,5,,Unknown,0,1
+74,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,95,,Unknown,1,0
+69,Black,Gum and Other Mouth,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,29,2,190,2.0,Actual,1,0
+68,White,Gum and Other Mouth,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,42,3,6,3.0,Actual,0,0
+63,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,33,,Unknown,0,0
+60,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,15,98,130,,Unknown,1,0
+54,White,Floor of Mouth,Moderately differentiated; Grade II,90,Unknown/Not applicable,Surgery performed,Beam radiation,31,98,10,,Unknown,0,1
+59,White,Gum and Other Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,15,98,10,,Unknown,0,1
+46,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,55,98,8,,Unknown,0,0
+50,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,0,1,135,1.0,Actual,1,0
+48,White,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,28,98,19,,Unknown,0,1
+51,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Surgery performed,"Recommended, unknown if administered",51,4,10,4.0,Actual,0,1
+66,White,Gum and Other Mouth,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,27,3,17,3.0,Actual,0,1
+58,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,0,4,91,4.0,Actual,1,0
+82,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,2,98,3,,Unknown,0,1
+42,Asian or Pacific Islander,Tongue,Well differentiated; Grade I,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,252,,Unknown,1,0
+48,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,19,98,126,,Unknown,1,0
+65,White,Tongue,Moderately differentiated; Grade II,27,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,46,95,113,,Unknown,1,0
+53,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,37,97,85,,Unknown,1,0
+46,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Surgery performed,Beam radiation,31,97,253,,Unknown,1,0
+52,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,46,98,6,,Unknown,0,1
+65,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,49,98,34,,Unknown,0,1
+59,Black,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,"Recommended, unknown if administered",67,98,9,,Unknown,0,1
+51,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,31,0,222,0.0,Actual,1,0
+65,White,Gum and Other Mouth,Moderately differentiated; Grade II,43,Unknown/Not applicable,Surgery performed,Beam radiation,31,98,26,,Unknown,0,1
+51,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,31,98,312,,Unknown,1,1
+65,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,20,98,47,,Unknown,0,1
+72,White,Tongue,Poorly differentiated; Grade III,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,0,1,61,1.0,Actual,1,0
+82,American Indian/Alaska Native,Gum and Other Mouth,Moderately differentiated; Grade II,42,Unknown/Not applicable,Surgery performed,Beam radiation,14,98,85,,Unknown,1,1
+65,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,33,98,74,,Unknown,1,1
+68,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,17,98,2,,Unknown,0,1
+63,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,77,98,35,,Unknown,0,0
+44,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,13,98,175,,Unknown,1,1
+51,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,70,,Unknown,1,0
+74,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,41,98,145,,Unknown,1,0
+59,White,Tongue,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,107,,Unknown,1,0
+81,White,Tongue,Well differentiated; Grade I,30,Unknown/Not applicable,Surgery performed,Beam radiation,16,98,17,,Unknown,0,1
+74,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,25,98,63,,Unknown,1,1
+55,White,Tongue,Undifferentiated; anaplastic; Grade IV,30,4 or more regional lymph nodes removed,Surgery performed,"Radiation, NOS  method or source not specified",276,3,113,3.0,Actual,1,0
+61,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,75,98,28,,Unknown,0,1
+69,White,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,40,98,12,,Unknown,0,1
+68,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,40,95,77,,Unknown,1,0
+72,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS","Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,0,95,79,,Unknown,1,0
+65,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,41,1,176,1.0,Actual,1,0
+65,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,31,0,43,0.0,Actual,0,0
+52,White,Gum and Other Mouth,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,7,2,7,2.0,Actual,0,0
+75,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,32,1,9,1.0,Actual,0,1
+59,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,1,50,1.0,Actual,0,1
+66,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,35,2,21,2.0,Actual,0,1
+59,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,95,176,,Unknown,1,0
+53,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,24,98,125,,Unknown,1,1
+67,White,Tongue,Moderately differentiated; Grade II,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,50,1,14,1.0,Actual,0,1
+52,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,86,1,123,1.0,Actual,1,0
+59,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,1,161,1.0,Actual,1,0
+66,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,"Radiation, NOS  method or source not specified",31,0,172,0.0,Actual,1,1
+57,White,Tongue,Moderately differentiated; Grade II,20,Unknown/Not applicable,Surgery performed,Beam radiation,26,3,258,3.0,Actual,1,0
+77,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,86,98,8,,Unknown,0,1
+62,White,Tongue,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,54,3,68,3.0,Actual,1,1
+56,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,18,4,45,4.0,Actual,0,1
+61,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,28,98,122,,Unknown,1,0
+64,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,21,1,199,1.0,Actual,1,0
+64,Asian or Pacific Islander,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,58,1,125,1.0,Actual,1,0
+33,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,17,,Unknown,0,1
+65,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,92,98,68,,Unknown,1,0
+52,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,68,98,102,,Unknown,1,0
+68,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,27,98,19,,Unknown,0,1
+61,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,43,98,98,,Unknown,1,0
+66,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,22,3,27,3.0,Actual,0,1
+50,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,60,98,3,,Unknown,0,1
+50,White,Lip,Poorly differentiated; Grade III,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,23,3,29,3.0,Actual,0,1
+71,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,103,,Unknown,1,0
+44,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,52,98,18,,Unknown,0,1
+56,Black,Gum and Other Mouth,Well differentiated; Grade I,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,0,54,0.0,Actual,0,1
+78,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,54,98,9,,Unknown,0,1
+49,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,20,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,27,95,71,,Unknown,1,0
+66,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,60,,Unknown,1,0
+63,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,38,98,58,,Unknown,0,1
+76,White,Tongue,Poorly differentiated; Grade III,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,0,1,133,1.0,Actual,1,0
+58,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,34,0,68,0.0,Actual,1,0
+51,Asian or Pacific Islander,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended, unknown if performed",Beam radiation,65,98,19,,Unknown,0,0
+62,White,Floor of Mouth,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,15,13,16,13.0,Actual,0,1
+42,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,4 or more regional lymph nodes removed,Not recommended,Beam radiation,31,1,182,1.0,Actual,1,0
+70,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,16,98,29,,Unknown,0,0
+56,White,Floor of Mouth,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,95,2,,Unknown,0,1
+56,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,40,98,77,,Unknown,1,0
+62,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,42,98,123,,Unknown,1,0
+72,Asian or Pacific Islander,Tongue,Well differentiated; Grade I,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,46,6,11,6.0,Actual,0,1
+54,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,47,98,30,,Unknown,0,1
+62,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,60,98,107,,Unknown,1,0
+66,White,Tongue,Well differentiated; Grade I,40,Unknown/Not applicable,Surgery performed,Beam radiation,11,98,144,,Unknown,1,0
+50,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,31,1,173,1.0,Actual,1,0
+50,White,Tongue,Well differentiated; Grade I,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,19,95,212,,Unknown,1,1
+39,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,22,2,105,2.0,Actual,1,0
+61,White,Floor of Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,53,3,28,3.0,Actual,0,1
+66,White,Lip,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,50,1,91,1.0,Actual,1,0
+74,White,Gum and Other Mouth,Undifferentiated; anaplastic; Grade IV,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,37,2,136,2.0,Actual,1,0
+68,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,30,98,113,,Unknown,1,0
+57,White,Tongue,Poorly differentiated; Grade III,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,9,2,97,2.0,Actual,1,0
+66,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,49,98,77,,Unknown,1,1
+73,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,56,98,61,,Unknown,1,0
+55,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,31,98,12,,Unknown,0,1
+61,White,Gum and Other Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,12,,Unknown,0,1
+53,Black,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,31,95,27,,Unknown,0,1
+49,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,77,13,12,13.0,Actual,0,1
+41,White,Gum and Other Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,360,,Unknown,1,0
+72,White,Floor of Mouth,Moderately differentiated; Grade II,42,Unknown/Not applicable,Surgery performed,Beam radiation,31,2,11,2.0,Actual,0,1
+33,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,42,7,16,7.0,Actual,0,1
+74,White,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,"Radiation, NOS  method or source not specified",0,98,19,,Unknown,0,1
+75,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,31,98,12,,Unknown,0,0
+55,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,25,98,90,,Unknown,1,1
+44,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Surgery performed,Beam radiation,32,98,245,,Unknown,1,0
+52,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,40,98,10,,Unknown,0,1
+62,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,19,,Unknown,0,0
+64,White,Tongue,Moderately differentiated; Grade II,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,10,98,45,,Unknown,0,1
+54,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,20,98,133,,Unknown,1,0
+65,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,27,95,77,,Unknown,1,1
+58,White,Tongue,Well differentiated; Grade I,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,118,,Unknown,1,0
+77,White,Tongue,Well differentiated; Grade I,00,Unknown or not applicable,Not recommended,Beam radiation,119,98,10,,Unknown,0,1
+74,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,29,3,6,3.0,Actual,0,1
+61,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,14,,Unknown,0,1
+55,White,Tongue,Moderately differentiated; Grade II,20,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,30,95,109,,Unknown,1,0
+62,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,169,,Unknown,1,0
+63,White,Tongue,Undifferentiated; anaplastic; Grade IV,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,30,3,86,3.0,Actual,1,0
+61,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,Unknown/Not applicable,Surgery performed,Beam radiation,41,98,114,,Unknown,1,0
+69,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,19,98,14,,Unknown,0,1
+56,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,76,98,12,,Unknown,0,1
+53,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,20,98,299,,Unknown,1,0
+63,White,Tongue,Poorly differentiated; Grade III,40,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,70,97,7,,Unknown,0,1
+58,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,36,97,4,,Unknown,0,1
+79,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,1,95,84,,Unknown,1,0
+39,Black,Tongue,Poorly differentiated; Grade III,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,70,1,20,1.0,Actual,0,1
+64,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,25,98,28,,Unknown,0,1
+63,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,31,97,102,,Unknown,1,1
+58,White,Tongue,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,30,1,139,1.0,Actual,1,0
+64,White,Gum and Other Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,31,0,3,0.0,Actual,0,1
+53,Black,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,14,5,115,5.0,Actual,1,0
+78,White,Tongue,Well differentiated; Grade I,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,3,12,3.0,Actual,0,1
+55,White,Tongue,Moderately differentiated; Grade II,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,4,194,4.0,Actual,1,0
+49,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,1,118,1.0,Actual,1,0
+64,White,Tongue,Moderately differentiated; Grade II,00,Number of regional lymph nodes removed unknown,Not recommended,Beam radiation,35,0,38,0.0,Actual,0,0
+52,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,6,98,6,,Unknown,0,1
+78,White,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,87,,Unknown,1,0
+54,American Indian/Alaska Native,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,9,98,136,,Unknown,1,0
+56,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,236,,Unknown,1,0
+57,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,41,1,9,1.0,Actual,0,0
+63,Black,Gum and Other Mouth,Poorly differentiated; Grade III,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,158,,Unknown,1,0
+59,White,Tongue,Well differentiated; Grade I,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,195,,Unknown,1,0
+73,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,4,64,4.0,Actual,1,0
+41,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,26,98,170,,Unknown,1,0
+71,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,40,98,74,,Unknown,1,0
+46,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,93,,Unknown,1,0
+43,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,2,94,2.0,Actual,1,0
+55,White,Gum and Other Mouth,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,155,14,40,14.0,Actual,0,1
+53,White,Floor of Mouth,Moderately differentiated; Grade II,42,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,54,0,78,0.0,Actual,1,1
+53,White,Tongue,Well differentiated; Grade I,30,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,0,1,120,1.0,Actual,1,1
+78,Asian or Pacific Islander,Floor of Mouth,Moderately differentiated; Grade II,42,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,31,0,6,0.0,Actual,0,1
+59,White,Gum and Other Mouth,Moderately differentiated; Grade II,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,23,8,72,8.0,Actual,1,0
+29,White,Tongue,Well differentiated; Grade I,30,Unknown/Not applicable,Surgery performed,Beam radiation,31,98,202,,Unknown,1,0
+65,White,Tongue,Poorly differentiated; Grade III,90,1 to 3 regional lymph nodes removed,Surgery performed,Beam radiation,0,1,160,1.0,Actual,1,1
+54,White,Tongue,Moderately differentiated; Grade II,42,Unknown/Not applicable,Surgery performed,Beam radiation,32,5,89,5.0,Actual,1,0
+66,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,46,98,117,,Unknown,1,0
+57,White,Floor of Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,31,98,22,,Unknown,0,1
+57,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,40,2,95,2.0,Actual,1,0
+59,White,Tongue,Undifferentiated; anaplastic; Grade IV,30,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,2,95,78,,Unknown,1,1
+70,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,"Not recommended, contraindicated due to other cond; autopsy only (1973-2002)",Beam radiation,2,97,12,,Unknown,0,1
+41,Black,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,86,97,17,,Unknown,0,1
+53,White,Tongue,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,13,1,203,1.0,Actual,1,0
+50,White,Tongue,Well differentiated; Grade I,30,Unknown/Not applicable,Surgery performed,Beam radiation,13,98,20,,Unknown,0,1
+70,Asian or Pacific Islander,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Surgery performed,Beam radiation,31,1,11,1.0,Actual,0,1
+52,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,13,,Unknown,0,1
+65,White,Lip,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,2,168,2.0,Actual,1,0
+63,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,8,1,176,1.0,Actual,1,0
+63,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,38,1,85,1.0,Actual,1,0
+64,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,6,,Unknown,0,1
+51,White,Floor of Mouth,Poorly differentiated; Grade III,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,32,2,35,2.0,Actual,0,0
+51,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,"Radiation, NOS  method or source not specified",45,98,166,,Unknown,1,0
+51,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,29,,Unknown,0,0
+57,White,Floor of Mouth,Poorly differentiated; Grade III,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,41,3,73,3.0,Actual,1,0
+51,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,51,98,17,,Unknown,0,1
+41,White,Gum and Other Mouth,Moderately differentiated; Grade II,30,"Biopsy or aspiration of regional lymph node, NOS",Surgery performed,Beam radiation,39,0,132,0.0,Actual,1,0
+49,White,Gum and Other Mouth,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,"Recommended, unknown if administered",24,7,14,7.0,Actual,0,1
+48,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,2,120,2.0,Actual,1,0
+67,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,57,7,5,7.0,Actual,0,1
+73,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,76,,Unknown,1,0
+62,Black,Gum and Other Mouth,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,43,98,130,,Unknown,1,1
+57,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,34,1,247,1.0,Actual,1,0
+65,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,33,98,98,,Unknown,1,0
+57,Asian or Pacific Islander,Gum and Other Mouth,Poorly differentiated; Grade III,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,24,0,7,0.0,Actual,0,1
+77,Asian or Pacific Islander,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,33,1,133,1.0,Actual,1,0
+47,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,55,98,82,,Unknown,1,0
+80,White,Gum and Other Mouth,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,47,98,16,,Unknown,0,1
+66,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,2,80,2.0,Actual,1,0
+72,White,Tongue,Poorly differentiated; Grade III,30,Unknown/Not applicable,Surgery performed,Beam radiation,9,98,16,,Unknown,0,1
+50,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,52,95,49,,Unknown,0,0
+49,Black,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,11,,Unknown,0,1
+72,White,Tongue,Poorly differentiated; Grade III,00,1 to 3 regional lymph nodes removed,Not recommended,Beam radiation,0,1,120,1.0,Actual,1,0
+50,White,Tongue,Moderately differentiated; Grade II,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,123,,Unknown,1,0
+58,White,Tongue,Moderately differentiated; Grade II,Blank(s),Unknown/Not applicable,Not recommended,Beam radiation,31,98,49,,Unknown,0,1
+63,Black,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,"Recommended but not performed, unknown reason",Beam radiation,9,97,7,,Unknown,0,1
+56,White,Tongue,Poorly differentiated; Grade III,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,31,0,182,0.0,Actual,1,0
+68,White,Tongue,Moderately differentiated; Grade II,30,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,24,1,13,1.0,Actual,0,1
+52,White,Tongue,Poorly differentiated; Grade III,41,4 or more regional lymph nodes removed,Surgery performed,Combination of beam with implants or isotopes,13,1,226,1.0,Actual,1,0
+73,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,35,0,2,0.0,Actual,0,1
+54,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,22,98,134,,Unknown,1,0
+47,White,Tongue,Well differentiated; Grade I,00,Unknown/Not applicable,Not recommended,Beam radiation,40,98,132,,Unknown,1,0
+51,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,48,98,91,,Unknown,1,0
+65,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,35,95,21,,Unknown,0,1
+62,White,Tongue,Poorly differentiated; Grade III,30,Sentinel node biopsy and lym nd removed same/unstated time,Surgery performed,Beam radiation,74,1,10,1.0,Actual,0,1
+64,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,29,,Unknown,0,0
+65,Black,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,45,98,15,,Unknown,0,0
+73,White,Tongue,Moderately differentiated; Grade II,30,Unknown/Not applicable,Surgery performed,Beam radiation,33,98,79,,Unknown,1,0
+48,White,Gum and Other Mouth,Moderately differentiated; Grade II,43,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,32,99,17,,Unknown,0,1
+69,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,"Recommended but not performed, patient refused",Beam radiation,93,95,11,,Unknown,0,1
+58,White,Tongue,Well differentiated; Grade I,27,4 or more regional lymph nodes removed,Surgery performed,Combination of beam with implants or isotopes,40,1,36,1.0,Actual,0,1
+63,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,38,98,27,,Unknown,0,1
+76,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,22,98,36,,Unknown,0,0
+51,White,Floor of Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Radioisotopes (1988+),31,98,15,,Unknown,0,1
+59,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,46,98,47,,Unknown,0,1
+69,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,27,,Unknown,0,1
+57,White,Gum and Other Mouth,Moderately differentiated; Grade II,41,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,0,19,12,19.0,Actual,0,1
+60,White,Gum and Other Mouth,Moderately differentiated; Grade II,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,42,2,16,2.0,Actual,0,1
+54,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,31,98,170,,Unknown,1,0
+65,White,Gum and Other Mouth,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,23,98,20,,Unknown,0,1
+67,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,46,98,112,,Unknown,1,0
+62,White,Tongue,Poorly differentiated; Grade III,00,"Biopsy or aspiration of regional lymph node, NOS",Not recommended,Beam radiation,0,95,193,,Unknown,1,0
+68,White,Tongue,Moderately differentiated; Grade II,00,Unknown/Not applicable,Not recommended,Beam radiation,43,98,132,,Unknown,1,0
+56,Black,Gum and Other Mouth,Moderately differentiated; Grade II,27,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,12,2,164,2.0,Actual,1,0
+60,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,89,98,115,,Unknown,1,0
+79,White,Tongue,Poorly differentiated; Grade III,00,Unknown/Not applicable,Not recommended,Beam radiation,41,98,3,,Unknown,0,0
+52,White,Gum and Other Mouth,Poorly differentiated; Grade III,Blank(s),Unknown/Not applicable,Surgery performed,Beam radiation,16,97,75,,Unknown,1,1
+60,White,Tongue,Moderately differentiated; Grade II,27,Unknown/Not applicable,Surgery performed,Beam radiation,0,98,14,,Unknown,0,0
+80,White,Tongue,Moderately differentiated; Grade II,42,4 or more regional lymph nodes removed,Surgery performed,Beam radiation,21,8,11,8.0,Actual,0,1
